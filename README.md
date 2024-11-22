@@ -35,5 +35,8 @@ python SensorEkspresi.py
 python SensorTangan.py
 python SensorWajah.py
 ```
-
+## 📷 Foto Output
+<div align="center">
+    <img src="sensor.jpg" alt="foto output" width="300" />
+</div>
 
